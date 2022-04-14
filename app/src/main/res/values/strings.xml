@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQLiteProyect</string>
+    <string name="hint_nombre">Nombre:</string>
+    <string name="hint_apellido">Apellido:</string>
+    <string name="hint_telefono">Telefono:</string>
+    <string name="hint_email">Email:</string>
+    <string name="btn_Guardar">GUARDAR</string>
+    <string name="menu_nuevo">Nuevo Dato</string>
+</resources>
